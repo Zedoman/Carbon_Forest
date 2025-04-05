@@ -113,6 +113,3 @@ The application is organized into several main components:
 - **Marketplace**: Components for trading forest tokens
 - **Impact**: Components for tracking and sharing environmental impact
 
-## License
-
-[License information to be added]
