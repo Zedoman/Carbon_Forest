@@ -8,7 +8,7 @@ A blockchain platform that enables users to invest in tokenized forest land that
 - **Stablecoin Wallet**: Displays user's token balance, accumulated yield from carbon credits, and transaction history
 - **Metaverse Forest Viewer**: 3D interactive representation of owned forest plots where users can monitor growth and complete conservation tasks
 - **Marketplace**: Trading platform for buying/selling forest tokens with price charts, filtering options, and integration with the Pharos payment system
-- **Impact Tracker**: Visual dashboard showing environmental impact metrics (CO2 sequestered, biodiversity supported) from user investments
+- **Sustainability**: Visual dashboard showing environmental impact metrics (CO2 sequestered, biodiversity supported) from user investments
 
 ## Project Architecture
 
